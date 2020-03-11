@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83724e15-9cad-42a8-b5af-a5322e6be49e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ARSW-MoneyLaunderingTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLauderingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__org_apache_commons_commons_csv_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/2020-1-arsw-par1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLaunderingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLaunderingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/model/SuspectAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/model/SuspectAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingServiceStub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/AccountReporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/AccountReporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/MoneyLaundering.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/MoneyLaundering.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/ARSW-MoneyLaunderingTest.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1YxoUxTUgWdhx53jyj6JJwwvjVj" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83724e15-9cad-42a8-b5af-a5322e6be49e" name="Default Changelist" comment="" />
+      <created>1582113482739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582113482739</updated>
+      <workItem from="1583893629580" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
