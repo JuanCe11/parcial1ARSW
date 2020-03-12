@@ -26,10 +26,8 @@ public class AccountReporter {
                 HttpClient httpClient = HttpClientBuilder.create().build();
                 HttpPost request = new HttpPost("http://localhost:8080/fraud-bank-accounts/");
                 request.setEntity(entity);
-
                 HttpResponse response;
                 response = httpClient.execute(request);
-                System.out.println(response.getStatusLine().getStatusCode());
 
             } catch (IOException ex) {
                 Logger.getLogger(AccountReporter.class.getName()).log(Level.SEVERE, "Unable to report fraudulent transactions for account", ex);

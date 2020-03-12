@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b9f0c6-6322-4725-bb5a-dc5409ea8d7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/ARSW-MoneyLaunderingTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLauderingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_csv_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020-1-arsw-par1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLaunderingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLaunderingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/model/SuspectAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/model/SuspectAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingServiceStub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/AccountReporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/AccountReporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/AnalizingThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/AnalizingThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/MoneyLaundering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/MoneyLaundering.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/TransactionAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/TransactionAnalyzer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/TransactionReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/moneylaundering/TransactionReader.java" afterDir="false" />
@@ -71,7 +52,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ARSW-MoneyLaunderingTest/moneylaunderingtool" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,17 +98,10 @@
       <updated>1582113683945</updated>
       <workItem from="1583893804613" duration="1612000" />
       <workItem from="1583945507486" duration="6944000" />
+      <workItem from="1583980914376" duration="4381000" />
+      <workItem from="1583988749220" duration="83000" />
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />

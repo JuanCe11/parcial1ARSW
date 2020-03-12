@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83724e15-9cad-42a8-b5af-a5322e6be49e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ARSW-MoneyLaunderingTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLauderingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__org_apache_commons_commons_csv_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moneylaunderingtool/2020-1-arsw-par1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLaunderingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLaunderingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/model/SuspectAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/model/SuspectAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingServiceStub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingtool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingtool/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/AccountReporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/AccountReporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/AnalizingThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/AnalizingThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/MoneyLaundering.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/MoneyLaundering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/TransactionAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/TransactionAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/TransactionReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/moneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/TransactionReader.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +42,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/moneylaunderingapi" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -87,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582113482739</updated>
       <workItem from="1583893629580" duration="127000" />
+      <workItem from="1583988489089" duration="269000" />
     </task>
     <servers />
   </component>
@@ -98,7 +82,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

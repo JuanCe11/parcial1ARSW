@@ -5,7 +5,6 @@ import java.util.List;
 
 public class AnalizingThread extends Thread{
     List<File> transactionFiles;
-    public boolean pausado;
 
     public AnalizingThread(List<File> transactionFiles){
         this.transactionFiles = transactionFiles;
@@ -26,7 +25,6 @@ public class AnalizingThread extends Thread{
                         } catch (Exception e) {
                             e.printStackTrace();
                         }
-                        pausado = true;
                     }
                 }
                 MoneyLaundering.transactionAnalyzer.addTransaction(transaction);
@@ -34,13 +32,5 @@ public class AnalizingThread extends Thread{
             MoneyLaundering.amountOfFilesProcessed.incrementAndGet();
         }
         MoneyLaundering.finishedThreads.incrementAndGet();
-    }
-
-    public boolean isPausado(){
-        return pausado;
-    }
-
-    public void despausar(){
-        pausado = false;
     }
 }
